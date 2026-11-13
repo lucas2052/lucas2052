@@ -49,6 +49,6 @@ My portfolio and a place to share my work. **[Visit the site ↗](https://person
 
 ## Go-to-market & growth
 
-![Product launches, campaigns and adoption: App Store featured campaign with 40,000 new daily downloads; 200+ marketing activities analysed; weekly active penetration from 0.15% to 3.27%. Outcomes from cross-functional initiatives.](assets/gtm-outcomes.svg)
+![Product launches, campaigns and adoption: App Store featured campaign with 40,000 new daily downloads; 200+ marketing activities analysed; weekly active penetration from 0.15% to 3.27%. Outcomes from cross-functional initiatives.](assets/gtm-outcomes.svg?v=2)
 
 ![My go-to-market workflow: 1. Market insight and strategy through competitor research, cultural trends, SQL and user research. 2. Launch planning through calendars, objectives, resources and project management. 3. Campaign activation through storytelling, KOL/KOC partnerships and creative themes. 4. Measurement and decisions through SQL, A/B testing, funnel analysis and weekly/monthly reviews.](assets/gtm-workflow.svg)
